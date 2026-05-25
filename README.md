@@ -4,4 +4,4 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 ## 📐 Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
-![Image description](D:\Courses\SQL with Baraa\Data Warehouse Project\Data Architechture/architechture)
+![Image description](D:/Courses/Data Warehouse Project/architechture)
