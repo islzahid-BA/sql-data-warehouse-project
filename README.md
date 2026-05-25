@@ -66,8 +66,9 @@ Specifications
 - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 <br>
-<p align="center">────────────────────────────────────────</p>
+<p align="center">------------------------------------------------------------------------------------</p>
 <br>
+
 ### BI: Analytics & Reporting (Data Analysis)
 Objective<br>
 Develop SQL-based analytics to deliver detailed insights into:
