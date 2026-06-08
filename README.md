@@ -80,4 +80,4 @@ Customer Behavior
 - Sales Trends
 - These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-**THANK YOU**
+<p align="center">*THANK YOU*</p>
