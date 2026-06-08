@@ -41,14 +41,17 @@ Following tools are used for this project:
 - SQL Server Management Studio 22
 - Git Repository
 - Notion
-- DrawIO
+- Draw.IO
 
 ---
 ## 🗃️ Datasets
 The data used for this project is under datasets folder.
 
 ---
-## 🪜 Project Steps
+## 🪜 Project Management
+This data warehouse project was organized using a structured roadmap with epics and tasks, including requirement analysis, data architecture design, project initialization, and the development of the Bronze, Silver, and Gold layers.
+The full project workflow and progress tracking are available in Notion:
+[View the Data Warehouse Project Roadmap]https://app.notion.com/p/Data-Warehouse-Project-3694b0ee654e80959b09e62b6a564bd8?source=copy_link
 
 
 
@@ -75,3 +78,5 @@ Customer Behavior
 - Product Performance
 - Sales Trends
 - These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+**THANK YOU**
